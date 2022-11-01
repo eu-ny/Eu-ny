@@ -20,7 +20,7 @@
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>   
 </p>   
 
-### :컴퓨터: 소프트웨어 & 툴   
+### 🤖 소프트웨어 & 툴   
 <p>   
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=Adobe&logoColor=white"></a>   
   <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000?logo=CodePen&logoColor=white"></a>   
