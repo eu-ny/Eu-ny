@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EUNNY%20PORTPOLO&fontSize=90)
+
 ### 🤔 JAVASCRIPT & EFFECT   
 <p>   
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>   
