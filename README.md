@@ -38,6 +38,8 @@
   <a href="https://vue-api-01.web.app/ "><img alt="Git" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"></a>   
 </div> 
 
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-ny&show_icons=true&theme=radical)
 
