@@ -30,9 +30,9 @@
 </div>   
 
 ### 📖 Site URL
-<div>
-  ## REACT SITE01
+<div style="font-size: 14px;">
+  REACT SITE01<br>
   <a href="https://legendary-pastelito-6da7f0.netlify.app/"><img alt="CodePen" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a><br>
-  ## VUE SITE01
+  VUE SITE01<br>
   <a href="https://vue-api-01.web.app/ "><img alt="Git" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"></a>   
 </div> 
