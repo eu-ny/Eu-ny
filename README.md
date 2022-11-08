@@ -17,9 +17,10 @@
 
 ### 🧸 PROJECT   
 <div>   
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>   
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white"></a>   
-  <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>   
+  <a href="[#](http://praise1109.dothome.co.kr/)"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>   
+  <a href="[#](http://praise11092.dothome.co.kr/)"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>   
+<!--   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white"></a>    -->
+<!--   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>    -->
 </div>   
 
 ### 🤖 소프트웨어 & 툴   
@@ -37,5 +38,6 @@
   <a href="https://vue-api-01.web.app/ "><img alt="Git" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"></a>   
 </div> 
 
-
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-ny&theme=calm&show_icons=true)
