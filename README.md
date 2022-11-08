@@ -40,4 +40,4 @@
 
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-ny&show_icons=true&theme=calm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-ny&show_icons=true)
