@@ -30,9 +30,12 @@
 </div>   
 
 ### 📖 Site URL
-<div style="font-size: 14px;">
-  REACT SITE01<br>
-  <a href="https://legendary-pastelito-6da7f0.netlify.app/"><img alt="CodePen" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a><br>
-  VUE SITE01<br>
+<div style="font-size: 12px;">
+  ✦ REACT SITE01 : 
+  <a href="https://react01-eunny.netlify.app/"><img alt="CodePen" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a><br>
+  ✦ VUE SITE01 : 
   <a href="https://vue-api-01.web.app/ "><img alt="Git" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"></a>   
 </div> 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-ny&theme=calm&show_icons=true)
