@@ -40,4 +40,6 @@
 
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-ny&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-ny&show_icons=true&theme=Gradient)
+
+  <img src="http://mazandi.herokuapp.com/api?handle={eu-ny}&theme=warm"/>
